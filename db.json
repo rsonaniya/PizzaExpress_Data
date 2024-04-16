@@ -1,0 +1,222 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Paneer Tikka Pizza",
+      "price": 499,
+      "images": [
+        "https://images.unsplash.com/photo-1573821663912-569905455b1c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1629740001727-f9ad15f720c4?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1665033628673-7de125eb6b12?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "2",
+      "name": "Tandoori Chicken Pizza",
+      "price": 449,
+      "images": [
+        "https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2016/06/pepper-delight-tandoori-chicken-pizza-3.jpg?resize=3728%2C3696",
+        "https://recipesblob.oetker.in/assets/2d2a87f7533e439aa3e6ed9bd63656e7/636x382/tandoori-pizza.jpg",
+        "https://www.coles.com.au/content/dam/coles/cusp/recipes-inspiration/pvx/AUG-PVX-23-Tandoori-Pizza-976x549.jpg"
+      ],
+      "isAvailable": false
+    },
+    {
+      "id": "3",
+      "name": "Masala Pizza",
+      "price": 349,
+      "images": [
+        "https://www.cafechococraze.com/wp-content/uploads/2016/06/mirch-masala-pizza.jpg",
+        "https://scontent.fdel5-1.fna.fbcdn.net/v/t39.30808-6/236051716_118210613866775_5807112385481545930_n.jpg?stp=dst-jpg_p640x640&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JQMsHG_UjiQAX-D87wz&_nc_ht=scontent.fdel5-1.fna&oh=00_AfDq8TkGz8nPvJAOwb188LpoUXEi1z1enqaiNk8SHpuAqA&oe=6612BF51",
+        "https://bebesallnatural.com/cdn/shop/articles/20190820_190230.jpg?v=1629072536&width=1100"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "4",
+      "name": "Uttapam Pizza",
+      "price": 149,
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5d10b2995d7640000181db5d/6764da69-114e-4d15-a365-ce671d1bd2b0/chhayas+food+uttapam+pizza+-+ready+to+eat",
+        "https://static.toiimg.com/thumb/65324388.cms?width=1200&height=900",
+        "https://i.pinimg.com/736x/35/c3/46/35c346f04d72b641a76f5572faa46803.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "5",
+      "name": "Keema Pizza",
+      "price": 449,
+      "images": [
+        "https://static.wixstatic.com/media/748bfd_fd482fddb6574c24ad10b35850d11f7c~mv2.jpg/v1/fill/w_640,h_854,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/748bfd_fd482fddb6574c24ad10b35850d11f7c~mv2.jpg",
+        "https://www.telugufoodrecipes.com/resources/picture/org/mutton-keema-pizza.jpg",
+        "https://lh3.googleusercontent.com/BxdJWLoafrnpv2ghsGbZkwN0gieNhXQWzMBZMf0p-GlxAlDU0XuQzAtIudYXFhrf-M33TdNRLcmCQy3pU47FDtOdOnqMd8KPuFFUSTiZ=w512-rw"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "6",
+      "name": "Onion Pizza",
+      "price": 149,
+      "images": [
+        "https://store.digipos.in/wp-content/uploads/2023/10/Cheese-Onion-pizza-1.jpg",
+        "https://lh3.googleusercontent.com/nGJFVLdcTdFJ8RcxXRAnR4zZQe6YAYAX6I7nfrib2NUQOlUcS2HKQk0XlYO1Omc7_pndfO5-bSXjgk9Xax7-YwLxHG8-dzYixg2inWw",
+        "https://img-global.cpcdn.com/recipes/7ab9caeaf7f123f9/680x482cq70/onion-pizza-recipe-main-photo.jpg"
+      ],
+      "isAvailable": false
+    },
+    {
+      "id": "7",
+      "name": "Neapolitan Pizza",
+      "price": 449,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+        "https://www.gozney.com/cdn/shop/articles/Neapolitan_Pizza_Mike_Fitzick__pizza_jew_1_1000x560.jpg?v=1643107522",
+        "https://cloveandcumin.com/wp-content/uploads/2023/03/Neapolitan-Pizza-at-Home.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "8",
+      "name": "Chicago-Style Deep Dish Pizza",
+      "price": 399,
+      "images": [
+        "https://www.foodnetwork.com/content/dam/images/food/fullset/2019/2/19/0/KC2004_Deep-Dish-Pizza_s4x3.jpg",
+        "https://www.chewoutloud.com/wp-content/uploads/2013/02/deep-dish-pizza-3.jpg",
+        "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/02ea0224-7316-406d-bb3d-5ed36e17a7b6/Derivates/85848d56-2911-4221-950f-b071d2d8fedf.jpg"
+      ],
+      "isAvailable": false
+    },
+    {
+      "id": "9",
+      "name": "New York-Style Pizza",
+      "price": 499,
+      "images": [
+        "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/15/19/4/qSVlYIyVTFGm0lgkEoNF_0S9A9928.jpg",
+        "https://mypizzacorner.com/wp-content/uploads/2022/12/new-york-pizza.jpg",
+        "https://storage.googleapis.com/onmilwaukee-article-images/variants/dhzwcrmyrffbu044u4w3zglgdln1/ff35c9310a7d5016e76853b0df7d033449d793b6f6dc2e4a0b4bc844add6c385"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "10",
+      "name": "Sicilian Pizza",
+      "price": 379,
+      "images": [
+        "https://www.itspizzanight.com/wp-content/uploads/2021/02/sunday-square-01-finished.jpg",
+        "https://pizzatoday.com/wp-content/uploads/2021/05/IMG_0521.jpg",
+        "https://static01.nyt.com/images/2018/12/05/dining/05kitchenrex1/merlin_147457287_3700e223-72be-4dd8-a70e-275066fd386f-articleLarge.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "11",
+      "name": "Stuffed Crust Pizza",
+      "price": 429,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/Cheese_stuffed_crust.jpg",
+        "https://mojo.generalmills.com/api/public/content/7Jak0VUSzUGdY1s1YWLAzQ_gmi_hi_res_jpeg.jpeg?v=e6090b40&t=466b54bb264e48b199fc8e83ef1136b4",
+        "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/8/24/0/WU1705H_Stuffed-Pizza-Crust_s4x3.jpg.rend.hgtvcom.616.462.suffix/1503590594890.jpeg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "12",
+      "name": "Detroit-Style Pizza",
+      "price": 369,
+      "images": [
+        "https://www.thedailymeal.com/img/gallery/what-is-detroit-style-pizza/l-intro-1664224103.jpg",
+        "https://www.grandecheese.com/wp-content/uploads/2020/04/detroit-style-pizza.jpg",
+        "https://www.allrecipes.com/thmb/O-gwfR7bP88O3T3iRmfEVXfJi8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/268466-Detroit-Style-Pizza-DDMFS-3x4-1-b32ab37e5ad24ec6be58771ebdeba82b.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "13",
+      "name": "California Pizza",
+      "price": 549,
+      "images": [
+        "https://cdn.britannica.com/55/171755-050-3F493233/California-pizza.jpg",
+        "https://www.tasteofhome.com/wp-content/uploads/2019/07/California-Chicken-Club-Pizza_EXPS_THAS19_237476_B04_17_4b.jpg",
+        "https://www.fsrmagazine.com/wp-content/uploads/2023/07/CPK-8.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "14",
+      "name": "Greek Pizza",
+      "price": 399,
+      "images": [
+        "https://www.healthyseasonalrecipes.com/wp-content/uploads/2019/12/greek-pizza-21-001.jpg",
+        "https://goodcheapeats.com/wp-content/uploads/2012/12/greek-pizza-hero-sq.jpg",
+        "https://carlsbadcravings.com/wp-content/uploads/2021/10/Greek-Pizza-1a.jpg"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "15",
+      "name": "Flatbread Pizza",
+      "price": 449,
+      "images": [
+        "https://xoxobella.com/wp-content/uploads/2021/04/20_minute_savoury_bacon_onion_and_bbq_chicken_flat_bread_pizzas_bella_bucchiotti_4.jpg",
+        "https://iheartvegetables.com/wp-content/uploads/2022/06/Vegan-Flatbread-Pizza-11-of-11.jpg",
+        "https://www.wellplated.com/wp-content/uploads/2023/07/How-to-Make-Flatbread-Pizza-4.jpg"
+      ],
+      "isAvailable": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "rajat",
+      "name": "rajat",
+      "itemsInCart": [
+        "3"
+      ],
+      "itemsOrdered": [
+        {
+          "id": "1",
+          "address": {
+            "name": "Rajat Sonaniya",
+            "address": "ujjain,Mp",
+            "number": "9630146262",
+            "id": "1712641871767"
+          }
+        },
+        {
+          "id": "1",
+          "address": {
+            "name": "Rajat Sonaniya",
+            "address": "ujjain,Mp",
+            "number": "9630146262",
+            "id": "1712641871767"
+          }
+        },
+        {
+          "id": "4",
+          "address": {
+            "name": "Raja",
+            "address": "Arniya,Mp",
+            "number": "9630146262",
+            "id": "1712641871768"
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "name": "Rajat Sonaniya",
+          "address": "ujjain,Mp",
+          "number": "9630146262",
+          "id": "1712641871767"
+        },
+        {
+          "name": "Raja",
+          "address": "Arniya,Mp",
+          "number": "9630146262",
+          "id": "1712641871768"
+        }
+      ]
+    }
+  ]
+}
