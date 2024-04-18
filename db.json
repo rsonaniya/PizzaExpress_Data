@@ -171,9 +171,7 @@
       "id": "1",
       "email": "rajat",
       "name": "rajat",
-      "itemsInCart": [
-        "3"
-      ],
+      "itemsInCart": ["3"],
       "itemsOrdered": [
         {
           "id": "1",
@@ -218,5 +216,6 @@
         }
       ]
     }
-  ]
+  ],
+  "todos": []
 }
