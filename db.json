@@ -217,5 +217,6 @@
       ]
     }
   ],
-  "todos": []
+  "todos": [],
+  "posts":[{"id":1,"title":"Title Post-1","body":"Body Post-1"}]
 }
