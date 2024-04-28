@@ -218,6 +218,13 @@
     }
   ],
   "todos": [],
-  "allusers":[{"name":"Admin User","email":"admin@gmail.com","password":"Admin@123","role":"admin"}],
+ [
+{
+"name": "Admin User",
+"email": "admin@gmail.com",
+"password": "Admin@123",
+"role": "admin"
+}
+],
   "posts":[{"id":1,"title":"Title Post-1","body":"Body Post-1","isNew":true,"isLiked":false,"isDisliked":false,"isOlder":false}]
 }
